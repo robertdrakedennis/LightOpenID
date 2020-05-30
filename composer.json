@@ -1,5 +1,5 @@
 {
-	"name": "robertdrakedennis/LightOpenID",
+	"name": "robertdrakedennis/lightopenid",
 	"type": "library",
 	"description": "A PPatched: Lightweight PHP5 library for easy OpenID authentication.",
 	"keywords": ["openid", "authentication", "security"],
