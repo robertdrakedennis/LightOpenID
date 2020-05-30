@@ -1,7 +1,7 @@
 {
-	"name": "iignatov/lightopenid",
+	"name": "robertdrakedennis/LightOpenID",
 	"type": "library",
-	"description": "Lightweight PHP5 library for easy OpenID authentication.",
+	"description": "A PPatched: Lightweight PHP5 library for easy OpenID authentication.",
 	"keywords": ["openid", "authentication", "security"],
 	"homepage": "https://github.com/iignatov/LightOpenID",
 	"license": "MIT",
